@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Krosoft.Extensions.Zip/Krosoft.Extensions.Zip.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Krosoft.Extensions.Zip.Tests/Krosoft.Extensions.Zip.Tests.csproj" />
+  </Folder>
+</Solution>
