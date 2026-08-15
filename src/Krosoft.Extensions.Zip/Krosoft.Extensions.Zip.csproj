@@ -7,6 +7,6 @@
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.10" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Krosoft.Extensions.Core" Version="2026.7.30.8661" />
+		<PackageReference Include="Krosoft.Extensions.Core" Version="2026.8.14.9075" />
 	</ItemGroup>
 </Project>
