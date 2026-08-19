@@ -4,7 +4,7 @@
 		<Description>Package pour faciliter l'utilisation d'archives Zip.</Description>
 	</PropertyGroup>
 	<ItemGroup Condition="'$(TargetFramework)' == 'net10.0'">
-		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.10" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.11" />
 	</ItemGroup>
 	<ItemGroup>
 		<PackageReference Include="Krosoft.Extensions.Core" Version="2026.8.14.9075" />
